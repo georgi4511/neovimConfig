@@ -18,4 +18,5 @@
 - - and more specifically [W64DevKitW](https://github.com/skeeto/w64devkit)
 - [Nerd Font](https://www.nerdfonts.com/font-downloads)
 - - and the one I like most [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip)
+- [Oh my Posh](https://ohmyposh.dev/) to spruce up the terminal
 - [NeoVIM](https://github.com/neovim/neovim)
