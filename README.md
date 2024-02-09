@@ -20,3 +20,8 @@
 - - and the one I like most [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip)
 - [Oh my Posh](https://ohmyposh.dev/) to spruce up the terminal
 - [NeoVIM](https://github.com/neovim/neovim)
+
+## Installation
+
+- git clone https://github.com/georgi4511/neovimConfig.git %localappdata%/nvim
+- Thats it 😊 have fun
